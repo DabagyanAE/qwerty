@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//Комментарий123//
 int main ()
 {
     int a, b;
